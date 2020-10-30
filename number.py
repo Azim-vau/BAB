@@ -30,7 +30,7 @@ X  \...X     @#%,.@   |# # # % ; ; ;,|   @#%,.@     X.../  X
 \033[1;96m \033[1m
  AUTHOR     : AZIM MAHMUD 
  FACEBOOK   : FACEBOOK.COM/MR.AZIM.VAU
- YOUTUBE    : YOUTUBE.COM/MR. ERROR
+ YOUTUBE    : YOUTUBE.COM/MR.ERROR
  GITHUB     : GITHUB.COM/AZIM-VAU
 \033[1;93m
 --------------------------------------------------
